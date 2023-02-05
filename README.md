@@ -1,2 +1,3 @@
 My first readme
-# alx-pre_course
+Now I am clear with github
+thanks!
